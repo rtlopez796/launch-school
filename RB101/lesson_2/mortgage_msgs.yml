@@ -1,0 +1,8 @@
+welcome: 'Welcome to the mortgage calculator!'
+loan_amount: 'How much is your loan for?'
+apr: 'What is the APR on your loan?'
+loan_duration_years: 'What is the duration of your loan in years?'
+invalid_num: 'Invalid response. Please enter a valid number.'
+positive_num: 'Invalid response. Please enter a number greater than 0.'
+again: "Would you like to make another calculation? ('Y' to calculate again)"
+goodbye: 'Thank you for using the mortgage calculator. Goodbye!'
